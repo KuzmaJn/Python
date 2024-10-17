@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Web Scraper/*
+!/Web Scraper/task/
+/Web Scraper/task/*
+!/Web Scraper/task/scraper.py
+!/Web Scraper/task/source.html
+!/Web Scraper/task/moderna_covid_vaccine_becomes_second_to_get_us_authorization.txt
+!/Web Scraper/task/biden’s_pick_to_head_us_environment_agency_heartens_scientists.txt
+!/Web Scraper/task/is_lightning_striking_the_arctic_more_than_ever_before.txt
